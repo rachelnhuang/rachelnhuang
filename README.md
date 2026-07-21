@@ -1,16 +1,33 @@
-## Hi there 👋
+# Rachel Huang's Projects
 
-<!--
-**rachelnhuang/rachelnhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## International Business Machines Corporation (IBM) 
+### Snowflake Analysis Dashboard
+### May 2026 - August 2026
 
-Here are some ideas to get you started:
+## Documentation Automation Agent
+### May 2026 - August 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Navy Federal Credit Union (NFCU)
+### First Time Home Buyer Model
+#### March 2026 - May 2026
+
+### Investment Service Dashboard
+#### December 2025 - March 2026
+
+## American Association of Collegiate Registrars and Admissions Officers (AACRAO)
+### Social Media Tracking Dashboard
+#### September 2025 - November 2025
+
+## Federal Housing Finance Agency (FHFA)
+### Multifamily (MF) Metropolitan Statistical Areas (MSAs) Dashboard
+#### November 2024 - February 2025
+
+### First Street Foundation (FSF) MF Climate Risk Analysis
+#### August 2024 - December 2024
+
+### Private-Label Commercial Mortgage-Based Loans (CMBS) Analysis
+#### June 2024 - August 2024
+
+## MadeComfy
+### Project Arnold
+#### June 2023 - July 2023
