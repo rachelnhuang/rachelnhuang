@@ -4,9 +4,11 @@
 Chicago, IL, USA
 ### Snowflake Analysis Dashboard
 May 2026 - August 2026
+Built an enterprise analytics dashboards using Snowflake Streamlit for an energy and utilities client by integrating Snowflake data on asset life cycle, work orders, and maintenance history. The dashboards provided stakeholders with actionable insights into infrastructure risk and geographic maintenance patterns, supporting data-driven decisions that improve resource allocaiton and reduce unplanned equipment failures.
 
 ### Documentation Automation Agent
 May 2026 - August 2026
+Developed a chat with document generative AI agent using IBM Consulting Advantage (ICA), Context Studio, and and a Model Context Protocal (MCP) connection to IBM Bob to retrieve enterprise knowledge and automatically generate draft consulting deliverables, such as Statements of Work (SOWs). Integrating ICA and IBM Bob through context studio enabled consultants to access client information efficiently and to produce context-aware drafts while maintaining alignment with client requirements.
 
 ## Navy Federal Credit Union (NFCU)
 Vienna, VA, USA
