@@ -14,11 +14,15 @@ Developed a chat with document generative AI agent using IBM Consulting Advantag
 
 ## Navy Federal Credit Union (NFCU)
 Vienna, VA, USA
-### First Time Home Buyer Model
+### First Time Home Buyer (FTHB) Model
 March 2026 - May 2026
+
+Modernized NFCU's FTHB model in Databricks using Python by engineering a compliant feature set, optimizing gradient boosted tree and random forest models, and developing a production-ready machine learning pipeline. Through feature selection, class imbalance handling, and hyperparameter optimization, the solution provided accurate FTHB predictions that empower targeted marketing strategies and data-driven customer engagement.
 
 ### Investment Service Dashboard
 December 2025 - March 2026
+
+Developed a reusable SQL-based reporting solution that automated the extraction and visualization of investment services metrics for monthly executive reporting. By standardizing metric definitions and streamlining report updates, the project provides reporting efficiency for the business analytics team and leadership with consistent insights into product performance over time.
 
 ## American Association of Collegiate Registrars and Admissions Officers (AACRAO)
 Washington, D.C., USA
